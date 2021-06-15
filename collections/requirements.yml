@@ -2,5 +2,6 @@
 collections:
   - name: geerlingguy.php_roles
     src: https://galaxy.ansible.com
-  - name: /tmp/fedora-linux_system_roles-1.4.0.tar.gz
+  - name: fedora.linux_system_roles
+    src: /tmp/fedora-linux_system_roles-1.4.0.tar.gz
     type: file
